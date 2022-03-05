@@ -8,6 +8,9 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@tiptap/extension-placeholder": "^2.0.0-beta.48",
+    "@tiptap/starter-kit": "^2.0.0-beta.183",
+    "@tiptap/vue-3": "^2.0.0-beta.90",
     "@vueuse/core": "^7.7.0",
     "vue": "^3.2.31",
     "vue-router": "^4.0.12"
